@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Principal.unity
+    guid: e31344c8f6c2342409d9539494e17e6a
+  - enabled: 1
+    path: Assets/Scenes/Ball.unity
+    guid: 3d901a7f4e28f624ab6d8a0c991f917c
+  - enabled: 1
+    path: Assets/Scenes/Ball 1.unity
+    guid: bbaf4d429cc83304294fdbd4beb40525
+  - enabled: 1
+    path: Assets/Scenes/Ball 2.unity
+    guid: 82cd75d42264d19429a53f2b1a21b978
+  - enabled: 1
+    path: Assets/Scenes/Ball 3.unity
+    guid: ecab218ede073404a8ddaf3982cd1043
+  - enabled: 1
+    path: Assets/Scenes/Ball 4.unity
+    guid: a5a2b77c5f222d140a0ee53cb1ebceb2
+  - enabled: 1
+    path: Assets/Scenes/Ball 5.unity
+    guid: 26080a7702821594b9e829f04d8944b0
+  - enabled: 1
+    path: Assets/Scenes/Ball 6.unity
+    guid: fc9236e0e43fb0f4887604b483cbf1e7
+  - enabled: 1
+    path: Assets/Scenes/Ball 7.unity
+    guid: 12b06ff940e9ed3469a702c0150b9c3a
+  - enabled: 1
+    path: Assets/Scenes/Ball 8.unity
+    guid: 1a1c3c1fb791333489dc0837579bf0d3
+  - enabled: 1
+    path: Assets/Scenes/Ball 9.unity
+    guid: c4da040919f4c024f8cee438229918a6
+  m_configObjects: {}
